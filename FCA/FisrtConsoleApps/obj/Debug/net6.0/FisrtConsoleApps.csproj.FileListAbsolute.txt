@@ -1,0 +1,15 @@
+D:\Ladno\Past\FCA\FisrtConsoleApps\bin\Debug\net6.0\FisrtConsoleApps.exe
+D:\Ladno\Past\FCA\FisrtConsoleApps\bin\Debug\net6.0\FisrtConsoleApps.deps.json
+D:\Ladno\Past\FCA\FisrtConsoleApps\bin\Debug\net6.0\FisrtConsoleApps.runtimeconfig.json
+D:\Ladno\Past\FCA\FisrtConsoleApps\bin\Debug\net6.0\FisrtConsoleApps.dll
+D:\Ladno\Past\FCA\FisrtConsoleApps\bin\Debug\net6.0\FisrtConsoleApps.pdb
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.csproj.AssemblyReference.cache
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.AssemblyInfoInputs.cache
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.AssemblyInfo.cs
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.csproj.CoreCompileInputs.cache
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.dll
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\refint\FisrtConsoleApps.dll
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.pdb
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\FisrtConsoleApps.genruntimeconfig.cache
+D:\Ladno\Past\FCA\FisrtConsoleApps\obj\Debug\net6.0\ref\FisrtConsoleApps.dll
